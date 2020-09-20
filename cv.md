@@ -31,7 +31,7 @@ took courses at the IT Academy (HTML, CSS, JS), I also did a lot of assignments 
 
 ## Educationad
 
-At the moment I am studying at [RS-School](https://github.com/serjvertelko/rsschool-cv.git)
+At the moment I am studying at [RS-School](https://github.com/serjvertelko)
 
 ## English level
 
