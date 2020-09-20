@@ -1,0 +1,28 @@
+body {
+  background-color: #7fffd4;
+  font-size: 18px;
+}
+h1 {
+  margin: 0;
+  padding: 0;
+}
+.cv-content {
+  width: 1024px;
+  margin: 0 auto;
+}
+.logo-img {
+  width: 200px;
+  margin-right: 100px;
+}
+.header-cv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+.main {
+  text-align: center;
+}
